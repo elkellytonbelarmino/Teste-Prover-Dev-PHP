@@ -1,0 +1,3 @@
+# Teste-Prover-Dev-PHP
+
+Teste que foi feito para ocupar o cargo de desenvolvedor na empresa, visando realizar um CRUD, criando uma página front-end vinculada ao back-end, exemplo: cadastrando produtos e excluindo produtos e cadastrando usuário e editando usuário ou deletando o mesmo...
